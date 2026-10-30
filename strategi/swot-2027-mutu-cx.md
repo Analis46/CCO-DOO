@@ -15,6 +15,13 @@ Angka `[usulan]` = target usulan tim, belum disahkan. Semua angka dasar dari Pak
 
 Logika besarnya: **ukur dulu (1), padamkan titik api (2), tutup kebocoran pasien (3), dengarkan lebih banyak pasien (4), kunci standar dalam SOP (5).**
 
+## Matriks TOWS
+
+| Eksternal ↓ / Internal → | **S (Strength)**<br>S-P2 CSAT 97,2%, rating 4,97, NPS 79,6 (Sep)<br>S-I1 34 indikator mutu berangka<br>S-I3 Handbook Komplain v1.0 disahkan<br>S-B1 Tim mampu mengolah data (dibantu AI) | **W (Weakness)**<br>W-I1 SLA keluhan belum terukur<br>W-P1 Keluhan Landak 6 → 36/bulan<br>W-I2 Tidak datang 20,1%; kontrol 7,4%; PSA 19%<br>W-K1 Biaya perbaikan tak terhitung (15,2/1.000)<br>W-B1 Baru 1 SOP Mutu |
+|---|---|---|
+| **O (Opportunity)**<br>O-P1 Calon pasien membaca ulasan Google<br>O-P2 / O-B1 WhatsApp & Halo AI bisa otomatis<br>O-I1 RME wajib (Permenkes 24/2022) | **SO** — pakai kekuatan untuk meraih peluang<br>**4.** Survei otomatis pascakunjungan + tindak lanjut ulasan/survei rendah ≤ 24 jam *(S-P2 + O-P1 + O-B1)* | **WO** — perbaiki kelemahan lewat peluang<br>**1.** Satu register keluhan 4 cabang, SLA terukur, siap pindah ke RME *(W-I1 + S-I3 + O-I1)*<br>**3.** Pengingat otomatis WA untuk janji, kontrol, PSA *(W-I2 + O-P2 + O-B1)* |
+| **T (Threat)**<br>T-P1 Ulasan buruk langsung terbaca (Telkomas 5,00 → 4,90)<br>T-K1 UMK naik ±6,9%<br>T-I1 UU PDP 27/2022<br>T-B1 Pesaing merebut tenaga terlatih | **ST** — *tidak dipilih tim*<br>Usulan opsional: tata kelola data pasien (akses, retensi, pemisahan chat internal–pasien) bersama IT Support & Corsec & Legal sebelum otomatisasi WA diperluas *(S-I1 + S-B1 + T-I1)* | **WT** — kurangi kelemahan agar ancaman tidak memukul<br>**2.** Pemulihan Landak *(W-P1 + T-P1)*<br>**5.** Hitung biaya mutu yang kurang → SOP Mutu *(W-K1 + T-K1 + W-B1)* |
+
 ---
 
 ## 1. WO — Satu Register Keluhan, SLA Terukur
